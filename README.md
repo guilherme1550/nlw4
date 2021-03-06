@@ -44,4 +44,4 @@ A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 
 ---
 
-🚀 Desenvolvido durante a NLW4 - Trilha Nodejs 🚀
+<p align="center">🚀 Desenvolvido durante a NLW4 - Trilha Nodejs 🚀<p>
